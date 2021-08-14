@@ -251,6 +251,17 @@ body{
 .tl-title:hover{
     color:  #477272;
 }
+.left-tl-content a{
+    letter-spacing: 1px;
+    font-size: 1.3rem;
+    font-style: italic;
+    text-decoration: none;
+    color: #031924;
+}
+
+.left-tl-content a:hover{
+    color:  #477272;
+}
 
 .tl-title-2{
     letter-spacing: 1px;
